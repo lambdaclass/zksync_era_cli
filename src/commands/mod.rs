@@ -2,6 +2,7 @@ pub(crate) mod account_balance;
 pub(crate) mod call;
 pub(crate) mod compile;
 pub(crate) mod deploy;
+pub(crate) mod download_compiler;
 pub(crate) mod encode;
 pub(crate) mod get_bridge_contracts;
 pub(crate) mod get_bytecode_by_hash;
